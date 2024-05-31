@@ -22,4 +22,6 @@ Ahora vamos con la modificación del codigo para lograr lo que se pide en la par
 - Ejecución
   ![Captura de pantalla (2212)](https://github.com/AbarcaBryan/Web-API-de-Libro/assets/169930464/52082449-0829-454f-9f88-4fb7d34b51a5)
 
-2. 
+2. Creación de un libro, debe de enviar el estado CREATED
+![Captura de pantalla (2214)](https://github.com/AbarcaBryan/Web-API-de-Libro/assets/169930464/2710e54e-d241-4bb5-948e-447b32312ac0)
+
