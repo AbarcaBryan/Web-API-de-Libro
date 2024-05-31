@@ -12,6 +12,7 @@ Ahora vamos con la modificación del codigo para lograr lo que se pide en la par
   ![Captura de pantalla (2213)](https://github.com/AbarcaBryan/Web-API-de-Libro/assets/169930464/1571150a-948a-4cf3-b9bd-c69c6912d3d6)
 
 - ExceptionResponse
+
   ![Captura de pantalla (2220)](https://github.com/AbarcaBryan/Web-API-de-Libro/assets/169930464/fc4c3132-8c53-40de-bb04-49cac4f2ac6e)
 
 - RestResponseEntityExceptionHandler
